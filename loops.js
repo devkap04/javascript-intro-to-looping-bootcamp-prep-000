@@ -18,8 +18,6 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  function incrementVariable() {
-    return "false"
-} 
+  
 
 }
